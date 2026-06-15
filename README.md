@@ -130,8 +130,7 @@ Time Series Forecasting (ARIMA/Prophet)
 Exchange Rate Prediction Dashboard
 Global Currency Comparison Module
 Real-Time Economic Data Integration
-👤 Author
 
+Author
 Aashi Agrawal
-
 Aspiring Data Analyst | Python | SQL | Power BI | Business Analytics
